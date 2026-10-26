@@ -14,3 +14,11 @@ Object-Oriented Programming
 Classes and __init__
 Instance methods vs @staticmethod
 Encapsulation: bundling data + behaviour together
+
+
+#Intro to Python: Ch 3
+#APIs & Decorators
+# Concepts
+Calling a REST API with requests
+Parsing JSON responses
+The decorator pattern: wrap a function to add behaviour without changing it
