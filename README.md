@@ -16,8 +16,8 @@ Instance methods vs @staticmethod
 Encapsulation: bundling data + behaviour together
 
 
-#Intro to Python: Ch 3
-#APIs & Decorators
+# Intro to Python: Ch 3
+# APIs & Decorators
 # Concepts
 Calling a REST API with requests
 Parsing JSON responses
